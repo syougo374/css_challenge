@@ -58,6 +58,7 @@ div,li {
 }
 .section_flex {
   display: flex;
+  justify-content: center;
 }
 .key {
   height: 500px;
