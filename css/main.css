@@ -110,6 +110,10 @@ h2 {
 }
 .section_flex p {
   padding: 0 20px;
+  width: 60%;
+}
+.section_flex img {
+  width: 35%;
 }
 .image_container {
   display: flex;
@@ -147,8 +151,8 @@ h2 {
   padding: 20px;
 }
 .coffee_menu img {
-  width: 20%;
-  height: auto;
+  width: 20% !important;
+  height: auto !important;
 }
 .menu_first {
   display: flex;
@@ -164,9 +168,9 @@ h2 {
 }
 footer {
   display: flex;
-  background-color: black;
+  background-color: #251e19;
   color: #fff;
-  height: 70px;
+  height: 75px;
   flex-direction: column;
   text-align: center;
   align-items: center;
